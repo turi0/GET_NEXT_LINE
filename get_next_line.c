@@ -6,7 +6,7 @@
 /*   By: dturella <dturella@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/08 17:23:12 by dturella          #+#    #+#             */
-/*   Updated: 2024/10/09 16:34:08 by dturella         ###   ########.fr       */
+/*   Updated: 2024/10/09 16:35:59 by dturella         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -104,4 +104,3 @@ char	*get_next_line(int fd)
 	fix_list(&list);
 	return (line);
 }
-
